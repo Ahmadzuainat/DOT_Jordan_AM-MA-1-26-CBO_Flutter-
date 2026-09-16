@@ -1,0 +1,6 @@
+name: dot_jordan_flutter
+description: DOT Jordan Dart and Flutter repository.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
